@@ -1,0 +1,26 @@
+SOURCES DES MÉDIAS — maquette ORA Wellness (Groupe ELS)
+
+RÉELS (Instagram @ora.cameroon / Google Maps) : facade, kids, kids2, kids3, ryan, ryanstudio, towel, tourn, session, logo, + 5 reels vidéo (assets/video/reform|padel|fitness|studio|cafe.mp4)
+
+BANQUE D'IMAGES — Unsplash (licence Unsplash, usage commercial gratuit) :
+  assets/img/b1.webp  <-  https://images.unsplash.com/photo-1493770348161-369560ae357d  (fruit salad on gray bowls)
+  assets/img/b2.webp  <-  https://images.unsplash.com/photo-1757592797141-d41e1bfe6b0e  (A healthy smoothie bowl with fruit and granola)
+  assets/img/bowl2.webp  <-  https://images.unsplash.com/photo-1631311695255-8dde6bf96cb5  (a bowl filled with vegetables and dressing next to a glass o)
+  assets/img/cafe.webp  <-  https://images.unsplash.com/photo-1670710028442-06a2df4bdf85  (a table topped with lots of plates of food)
+  assets/img/group.webp  <-  https://images.unsplash.com/photo-1534438327276-14e5300c3a48  (woman standing surrounded by exercise equipment)
+  assets/img/gym.webp  <-  https://images.unsplash.com/photo-1775993167571-cd1ff4cadada  (Modern gym with treadmills and exercise equipment)
+  assets/img/latte.webp  <-  https://images.unsplash.com/photo-1760175445000-0e01e193d1cd  (A cup of coffee with latte art on a saucer)
+  assets/img/matcha.webp  <-  https://images.unsplash.com/photo-1515823064-d6e0c04616a7  (white ceramic teacup filled of matcha tea)
+  assets/img/med.webp  <-  https://images.unsplash.com/photo-1622587133988-70349a7942c8  (woman in black shirt and white pants sitting on chair)
+  assets/img/padel.webp  <-  https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b  (a man and woman shaking hands on a tennis court)
+  assets/img/padel2.webp  <-  https://images.unsplash.com/photo-1646649851800-48dba35edc76  (a man holding a tennis racquet on a tennis court)
+  assets/img/padel3.webp  <-  https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c  (A person holding an orange and blue padel racket on a court)
+  assets/img/ref2.webp  <-  https://images.unsplash.com/photo-1747239202356-764770773c9a  (Woman performs pilates on a reformer machine)
+  assets/img/ref3.webp  <-  https://images.unsplash.com/photo-1788463127153-283c03c99290  (A woman in brown activewear holding a small ball in a pilate)
+  assets/img/reform.webp  <-  https://images.unsplash.com/photo-1788463127138-d17920230de9  (Two women in athletic wear on pilates reformers in a bright )
+  assets/img/squat.webp  <-  https://images.unsplash.com/photo-1586323289103-e309634e2a1b  (woman in black spaghetti strap top)
+  assets/img/yoga.webp  <-  https://images.unsplash.com/photo-1554244933-d876deb6b2ff  (woman wearing black sports bra)
+
+VIDÉO HERO — Mixkit (licence Mixkit gratuite) : clips 48556, 48548, 52111, 48561, 43737 (assets.mixkit.co)
+
+À remplacer avant mise en ligne définitive par un shooting photo/vidéo réalisé chez ORA.
